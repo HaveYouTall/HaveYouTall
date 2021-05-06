@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HaveYouTall
-- 👀 I’m interested in crypto, blockchain, and binary(rookie)
-- 🌱 I’m currently learning blockchain and binary
+- 👀 I’m interested in crypto and blockchain
+- 🌱 I’m currently learning crypto and blockchain
 - 💞️ I’m looking to collaborate on anything which is really cool.
 - 📫 How to reach me --- I bet no one will contact me because I am just a rookie hhhha.
 
