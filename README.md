@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @HaveYouTall, the author of [PQMagic](https://github.com/pqcrypto-cn/PQMagic), YCrypt, and [Mobile-MSM](https://github.com/z-prize/2022-entries/tree/main/open-division/prize7-msm-mobile) ([won the second prize in Accelerating MSM on Mobile @ YY Team](https://www.zprize.io/blog/announcing-zprize-results))
 - 👀 I am a huge fan of high-performance implementation of algorithms (e.g., crypto alg.) as well as security of implementation, and also interested in binary, crypto, and blockchain.
 - 🌱 I’m currently learning binary and crypto and blockchain (~~too difficult to learn them all ToT\~)~~.
-- 💞️ I’m looking to collaborate on any cool stuffs.
-- 📫 How to reach me --- I bet no one will contact me because I am just a rookie hhhha.
+- 💞️ I’m looking to collaborate on any cool things.
 
 ## GitHub Profile Stats 💻
 
