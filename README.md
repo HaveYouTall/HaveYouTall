@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning binary, crypto, and blockchain (~~too difficult to learn them all ToT\~)~~.
 - 💞️ I’m looking to collaborate on any cool things.
 
+<!--
+![visitors](https://visitor-badge.glitch.me/badge?page_id=HaveYouTall.HaveYouTall&left_color=green&right_color=red)
+-->
+
 ## GitHub Profile Stats 💻
 
 <!--
