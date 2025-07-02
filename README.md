@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HaveYouTall, the author of [PQMagic](https://github.com/pqcrypto-cn/PQMagic), YCrypt, and [Mobile-MSM](https://github.com/z-prize/2022-entries/tree/main/open-division/prize7-msm-mobile) ([won the zprize second prize in Accelerating MSM on Mobile @ YY Team](https://www.zprize.io/blog/announcing-zprize-results))
 - 👀 I am a huge fan of high-performance implementation of algorithms (e.g., crypto alg.) as well as security of implementation, and also interested in binary, crypto, and blockchain.
-- 🌱 I’m currently learning binary and crypto and blockchain (~~too difficult to learn them all ToT\~)~~.
+- 🌱 I’m currently learning binary, crypto, and blockchain (~~too difficult to learn them all ToT\~)~~.
 - 💞️ I’m looking to collaborate on any cool things.
 
 ## GitHub Profile Stats 💻
@@ -21,6 +21,61 @@
 
 ![MSM Card](https://github-readme-stats-mu-eight-18.vercel.app/api/pin/?username=HaveYouTall&repo=Mobile-MSM-open&theme=dracula)
 
+
+## My favorite tools and technologies ⚙️
+
+> Tools and technologies that I have worked with and am interested in
+
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C/C++
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <!--
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/rust-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Rust
+    </td>
+    -->
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>Github
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Docker
+    </td>
+  <!--
+  </tr>
+  <tr>
+  -->
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+  <!--
+  </tr>
+  <tr>
+  -->
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+  <!--
+  </tr>
+  <tr>
+  -->
+  </tr>  
+</table>
 
 <!--
 ## Github stats 📊
